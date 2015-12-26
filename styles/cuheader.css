@@ -4,7 +4,7 @@
 	position: relative;
 	width: 960px;
 	height: 120px;
-	background-color: #000;
+	background-color: #041E41;
 }
 
 #cuheader h1 {
@@ -17,7 +17,8 @@
 	height: 120px;
 	width: 700px;
 	text-indent: -9999px;
-	background-image: url(../images/cu_banner.png);
+
+	background-image: url(../images/secondary_usage.png);
 	background-repeat: no-repeat;
 }
 
